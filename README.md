@@ -1,2 +1,3 @@
-# flex-data-pipeline-7djw
-A data processing pipeline for modern development workflows
+# Flex Data Pipeline 7Djw
+
+A data processing pipeline for modern development workflows.
